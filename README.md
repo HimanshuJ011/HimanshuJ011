@@ -46,9 +46,6 @@
 </br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuJ011&" alt="HimanshujJ011" /></p>
-
-
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/HimanshuJ011">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuJ011&theme=noctis_minimus&show_icons=true" />
