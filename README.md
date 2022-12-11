@@ -28,6 +28,7 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -42,10 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-
 </br>
-
-
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/HimanshuJ011">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuJ011&theme=noctis_minimus&show_icons=true" />
