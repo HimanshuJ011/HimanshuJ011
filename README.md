@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    I am a 3rd Year Computer Science Student and a <b>Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">who always try to make Contribution in open-Source projects for enhancing my <b>skills</b> and My learning...
+    I am a 3rd Year Computer Science Student and a <b>Developer</b>who always try to make Contribution in open-Source projects for enhancing my <b>skills</b> and My learning and help to Community...
   </em>  
 </p>
 <h1 align="left">
