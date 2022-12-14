@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    I am a 3rd Year Computer Science Student and a <b>Developer</b>who always try to make Contribution in open-Source projects for enhancing my <b>skills</b> and My learning and help to Community...
+    I am a 3rd Year Computer Science Student and a <b>Developer</b>who always try to make Contribution in open-Source projects for enhancing my <b>skills</b> and My learning and help to Community by making contributions...
   </em>  
 </p>
 <h1 align="left">
