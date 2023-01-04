@@ -28,7 +28,6 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-
 <p align="left">
 	
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
