@@ -26,7 +26,6 @@
 </a>
   </br>
 </p>
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 	
