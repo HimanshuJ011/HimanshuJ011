@@ -52,5 +52,4 @@
 
 <a src ="https://github.com/HimanshuJ011/HimanshuJ011/blob/output/github-contribution-grid-snake.gif
 "></a>
-![snake gif](https://github.com/HimanshuJ011/HimanshuJ011/blob/output/github-contribution-grid-snake.gif)
 
