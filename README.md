@@ -50,6 +50,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuJ011&theme=noctis_minimus&layout=compact" />
 </a>
 
-<a src ="https://github.com/HimanshuJ011/HimanshuJ011/blob/output/github-contribution-grid-snake.gif
-"></a>
+<a src ="https://github.com/HimanshuJ011/HimanshuJ011/blob/output/github-contribution-grid-snake.gif"></a>
 
