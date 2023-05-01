@@ -17,6 +17,9 @@
 <a href="https://twitter.com/himanshuJ144">
    <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
+  <a href="https://twitter.com/himanshuJ144">
+   <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
   </br>
 </p>
 <h2 align="left">Languages and Tools:</h2>
