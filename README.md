@@ -11,17 +11,11 @@
 </h1>
 <p align="left">
  
-<a href="https://www.linkedin.com/in/himanshujoshi011/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
+ <a href="[https://skillicons.dev](https://www.linkedin.com/in/himanshujoshi011/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 <a href="https://twitter.com/himanshuJ144">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/Himanj.io/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="https://www.hashnode.com/@Himanj">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
   </br>
 </p>
@@ -29,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,express,git,github,linux,docker,nodejs,nginx,c,cpp,vim,mongodb,mysql,postman,powershell,react,aws" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,js,express,git,github,linux,docker,nodejs,nginx,c,cpp,vim,mongodb,mysql,postman,powershell,react,aws" />
   </a>
 </p>
 
