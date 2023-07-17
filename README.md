@@ -1,8 +1,8 @@
 
-## Hey , I'm Himanshu Joshi
+## Hey, I'm Himanshu Joshi
 <p>
   <em>
-    I am a Computer Science Student and a <b>Full-StackDeveloper</b> who always try to make Contribution in open-Source projects for enhancing my <b>skills</b> and My learning and help to Community by making contributions ...
+    I am a Computer Science Student and a <b>Full-StackDeveloper</b> who always try to make Contribution to open-Source projects for enhancing my <b>skills</b> and My learning and help to the Community by making contributions ...
   </em>  
 </p>
 <h1 align="left">
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,js,express,git,github,linux,docker,nodejs,nginx,linux,c,cpp,vim,mongodb,mysql,postman,powershell,react,aws" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,js,express,git,github,linux,docker,nodejs,nginx,c,cpp,vim,mongodb,mysql,postman,powershell,react,aws" />
   </a>
 </p>
 
