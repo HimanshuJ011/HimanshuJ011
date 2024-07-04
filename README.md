@@ -22,9 +22,9 @@
    <a href="https://hashnode.com/@Himanj">
    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/himanj01/">
+<!--   <a href="https://leetcode.com/himanj01/">
    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
+  </a> -->
   </br>
 </p>
 
