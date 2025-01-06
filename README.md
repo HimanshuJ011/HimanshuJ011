@@ -16,15 +16,15 @@
 <a href="https://twitter.com/himanshuJ144">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<!--   <a href="https://twitter.com/himanshuJ144">
+  <a href="https://twitter.com/himanshuJ144">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
+  </a>
    <a href="https://hashnode.com/@Himanj">
    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-<!--   <a href="https://leetcode.com/himanj01/">
+  <a href="https://leetcode.com/u/joshima14">
    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a> -->
+  </a>
   </br>
 </p>
 
