@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js,ts,nextjs,express,react,py,git,github,githubactions,postgres,linux,docker,nodejs,nginx,idea,c,cpp,vim,mongodb,mysql,postman,powershell,aws" alt="Skills and Tools" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js,ts,nextjs,express,react,git,github,githubactions,postgres,linux,docker,nodejs,nginx,idea,c,cpp,vim,mongodb,mysql,postman,powershell,aws" alt="Skills and Tools" />
   </a>
 </p>
 
