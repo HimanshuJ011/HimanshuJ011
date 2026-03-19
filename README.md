@@ -57,10 +57,4 @@
 - 🐳 Docker, Kubernetes (basics) for deployment  
 - 🔐 API Design, Auth, Rate Limiting, Scalability patterns  
 
----
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/HimanshuJ011/HimanshuJ011/blob/output/github-contribution-grid-snake.gif" />
-</p>
