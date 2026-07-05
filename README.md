@@ -1,60 +1,55 @@
-<h1 align="center">Hey 👋, I'm Himanshu Joshi</h1>
+<h1 align="center">Hi, I'm Himanshu Joshi 👋</h1>
 
 <p align="center">
-  <em>
-    🚀 Full-Stack Product Developer | ⚙️ Golang Microservices | 🤖 AI Enthusiast  
-    <br/>
-    I design and build scalable systems using Go, distributed architecture, and modern web technologies.
-  </em>
+  <strong>Software Engineer • Backend Systems • AI Infrastructure • Open Source</strong>
+</p>
+
+<p align="center">
+Building scalable backend systems, developer tools, and open-source software with Go, Java, and modern cloud technologies.
 </p>
 
 ---
 
-### 🧠 About Me
+## About
 
-- 💻 Full-Stack Developer with strong focus on **Backend & System Design**
-- ⚙️ Building **Microservices in Golang (Gin, gRPC, Kafka)**
-- 🏗️ Experience working on **B2B SaaS products & scalable distributed systems**
-- 🤖 Working with **AI Agents, LLMs, and Generative AI applications**
-- 📈 Focused on **clean architecture, performance, and scalability**
-- 🌱 Currently diving deeper into **Java Backend, DSA, and System Design**
+I'm a software engineer passionate about building reliable systems and developer-first tools.
+
+My interests include:
+
+- Distributed Systems
+- Backend Engineering
+- AI Infrastructure
+- Observability
+- Developer Tools
+- System Design
+- Open Source
+
+I'm currently focused on building production-grade backend systems and creating open-source libraries under **JoshiLabs**.
 
 ---
 
-### 🌐 Let's Connect
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,ts,nextjs,react,nodejs,spring,postgres,mongodb,mysql,redis,kafka,docker,kubernetes,aws,linux,git,github,githubactions" />
+</p>
+
+---
+
+## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/himanshujoshi011/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://x.com/himanshuJ144" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://hashnode.com/@Himanj" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/joshima14" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,ts,js,nextjs,react,nodejs,express,spring,postgres,mongodb,mysql,docker,kubernetes,aws,linux,nginx,git,github,githubactions" />
+<i>Building software that developers love.</i>
 </p>
-
----
-
-### 🏗️ Backend & Systems Expertise
-
-- ⚡ **Golang**: Gin, REST APIs, gRPC services  
-- 🔗 **Microservices Architecture** & Service Communication  
-- 📡 **Kafka** for event-driven systems & async processing  
-- 🗄️ Database Design: PostgreSQL, MongoDB, MySQL  
-- 🐳 Docker, Kubernetes (basics) for deployment  
-- 🔐 API Design, Auth, Rate Limiting, Scalability patterns  
-
-
