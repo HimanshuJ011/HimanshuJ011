@@ -36,19 +36,6 @@ I'm currently focused on building production-grade backend systems and creating 
 
 ---
 
-## Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/himanshujoshi011/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/himanshuJ144" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <p align="center">
 <i>Building software that developers love.</i>
